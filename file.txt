@@ -1,1 +1,3 @@
 Lauri has a cat.
+
+Added functionality D.
